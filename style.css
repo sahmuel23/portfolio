@@ -1,0 +1,13 @@
+#bloco-1{
+    background-color: darkgrey;
+    background-image: url(img/fundo.png);
+    
+    background-position-x: center;
+    background-size: cover;
+    opacity: 0.9;
+    background-attachment: fixed;
+}
+
+#bloco-1 .card-text{
+    padding: 8px 12px;
+}
